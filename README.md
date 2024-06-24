@@ -1,1 +1,1 @@
-"> <script>alert("XSS Test")</script>">
+<script type="text/javascript">alert("abcd")</script>
