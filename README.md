@@ -1,1 +1,1 @@
-Web Vulnerable Test
+<script>alert("1")</script>
